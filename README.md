@@ -96,6 +96,7 @@ The application also verifies that the model's quoted evidence exists in the ret
 | PDF Parsing | PyMuPDF |
 | Structured Output | Pydantic |
 | UI | Streamlit |
+| Data Handling | Pandas |
 | Calculator | Pure Python |
 
 ---
@@ -112,10 +113,6 @@ DemurrageDesk/
 ├── test_demurrage.py
 ├── requirements.txt
 ├── README.md
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── SECURITY.md
-├── LICENSE
 │
 ├── data/
 │   └── docs/
